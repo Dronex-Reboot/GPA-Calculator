@@ -630,25 +630,4 @@ DUATUJUH:
     INC SI   
     JMP DUATUJUH
     
-NEXT27:         
-        
-    CALL CALCULATE
-    MOV SI,00H
-    CALL CEK
-    MOV TOTAL5[SI], AL
-    MOV AL,"$"      
-    INC SI
-    MOV TOTAL5[SI], AL 
-    CLEAR 
-    
-    DISP MATKUL11
-    1
-    DISP MATKUL21
-    2
-    DISP MATKUL31
-    3
-    DISP MATKUL41
-    4
-    DISP MATKUL51
-    5        
-.EXIT
+
