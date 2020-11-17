@@ -1,4 +1,4 @@
-;@2020                                                                                                                                     |
+;@Copyright 2020                                                                                                                                     |
 ;AUTHOR         :   - DIMAS WIRA NUGRAHA                < TEKNIK KOMPUTER - 1806200021 - 11A>                                              |
 ;               :   - PHILIPUS RENALDY KRISTIAN         < TEKNIK KOMPUTER - 1806200053 - 12A>                                              |
 ;               :   - NATALIA KRISTIAN                  < TEKNIK KOMPUTER - 1806200103 - 11A>                                              |
